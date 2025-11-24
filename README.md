@@ -16,7 +16,6 @@
 9. [Docker Compose Requirements](#docker-compose-requirements)
 10. [Business Rules Implementation](#business-rules-implementation)
 11. [Submission Requirements](#submission-requirements)
-12. [Evaluation Criteria](#evaluation-criteria)
 
 ---
 
